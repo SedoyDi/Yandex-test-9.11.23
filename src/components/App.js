@@ -1,8 +1,8 @@
 import React from 'react';
-import './App.css';
 import Header from './Header/Header';
 import ProductCategories from './ProductCategories/ProductCategories';
 import Varieties from './CoffeeVarieties/Varieties';
+import Products from './Products/Products';
 
 function App() {
   return (
@@ -10,6 +10,7 @@ function App() {
       <Header />
       <ProductCategories />
       <Varieties />
+      <Products />
     </>
   );
 }
