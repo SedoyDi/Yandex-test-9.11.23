@@ -1,0 +1,21 @@
+.categories {
+  display: grid;
+  width: 91%;
+  margin: 30px auto;
+  gap: 12px;
+  grid: repeat(2, 1fr) / auto-flow 1fr;
+  place-items: center;
+}
+@media screen and (min-width: 765px) {
+  .categories {
+    grid-template-columns: auto-flow 1fr;
+    grid-template-rows: none;
+  }
+}
+
+@media screen and (min-width: 864px) {
+  .categories {
+    width: 82%;
+    gap: 16px;
+  }
+}
