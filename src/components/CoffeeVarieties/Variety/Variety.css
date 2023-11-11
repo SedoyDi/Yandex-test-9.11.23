@@ -1,0 +1,30 @@
+.variety-link {
+  display: inline-block;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  font-family: YS Display;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  text-decoration: none;
+  border-radius: 72px;
+  border: 1px solid #fff;
+  padding: 17px 0;
+}
+.variety-list {
+  width: 100%;
+  max-width: 208px;
+}
+@media screen and (min-width: 864px) {
+  .variety-list {
+    width: 100%;
+    max-width: 338px;
+  }
+  .variety-link {
+    padding: 0;
+    font-size: 21px;
+    line-height: 52px;
+  }
+}

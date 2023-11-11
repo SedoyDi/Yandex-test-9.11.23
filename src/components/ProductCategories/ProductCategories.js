@@ -10,10 +10,12 @@ import drip from '../../images/Categories/Drip.png';
 export default function ProductCategories() {
     return (
         <section className='categories'>
-            <Category title="Автоматические кофемашины" img={automatic} />
-            <Category title="Капсульные кофемашины" img={capsule} />
-            <Category title="Рожковые кофемашины" img={carob} />
-            <Category title="Капельные кофемашины" img={drip} />
+            <ul className='categories__list'>
+                <Category title="Автоматические кофемашины" img={automatic} route="#" />
+                <Category title="Капсульные кофемашины" img={capsule} route="#" />
+                <Category title="Рожковые кофемашины" img={carob} route="#" />
+                <Category title="Капельные кофемашины" img={drip} route="#" />
+            </ul>
         </section>
     )
 }

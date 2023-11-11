@@ -1,20 +1,27 @@
 .categories {
+  display: block;
+  width: 100%;
+  margin: 30px auto 70px;
+}
+.categories__list {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
   display: grid;
   width: 91%;
-  margin: 30px auto;
   gap: 12px;
   grid: repeat(2, 1fr) / auto-flow 1fr;
   place-items: center;
 }
 @media screen and (min-width: 765px) {
-  .categories {
+  .categories__list {
     grid-template-columns: auto-flow 1fr;
     grid-template-rows: none;
   }
 }
 
 @media screen and (min-width: 864px) {
-  .categories {
+  .categories__list {
     width: 82%;
     gap: 16px;
   }
