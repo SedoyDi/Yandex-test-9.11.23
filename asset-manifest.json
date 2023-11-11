@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Yandex-test-9.11.23/static/css/main.776b4657.css",
+    "main.js": "/Yandex-test-9.11.23/static/js/main.5d9c4e30.js",
+    "static/media/header1456.jpg": "/Yandex-test-9.11.23/static/media/header1456.e53a81d0e0f594406dce.jpg",
+    "static/media/header-img.png": "/Yandex-test-9.11.23/static/media/header-img.5fc59c36b7f98f4f4709.png",
+    "static/media/YandexSansText-Bold.woff": "/Yandex-test-9.11.23/static/media/YandexSansText-Bold.93ad5a0a463082e24771.woff",
+    "static/media/YandexSansText-Regular.woff": "/Yandex-test-9.11.23/static/media/YandexSansText-Regular.1c422f2ef1e510532200.woff",
+    "static/media/YandexSansDisplay-Bold.woff": "/Yandex-test-9.11.23/static/media/YandexSansDisplay-Bold.138d9a1c55f27a3b5486.woff",
+    "static/media/YandexSansDisplay-Regular.woff": "/Yandex-test-9.11.23/static/media/YandexSansDisplay-Regular.24a20857e5c6d4c4cfa0.woff",
+    "static/media/YandexSansText-Bold.woff2": "/Yandex-test-9.11.23/static/media/YandexSansText-Bold.b7699b9b700ad29caa9b.woff2",
+    "static/media/YandexSansText-Regular.woff2": "/Yandex-test-9.11.23/static/media/YandexSansText-Regular.fd627cc781ea46efb18f.woff2",
+    "static/media/YandexSansDisplay-Bold.woff2": "/Yandex-test-9.11.23/static/media/YandexSansDisplay-Bold.f502192c0c4f8b5ba5cf.woff2",
+    "static/media/YandexSansDisplay-Regular.woff2": "/Yandex-test-9.11.23/static/media/YandexSansDisplay-Regular.29559e64b30c169b8b20.woff2",
+    "static/media/Drip.png": "/Yandex-test-9.11.23/static/media/Drip.75c0dd2128ea5f31e525.png",
+    "static/media/Carob.png": "/Yandex-test-9.11.23/static/media/Carob.58be088c06e50d6b4922.png",
+    "static/media/Capsule.png": "/Yandex-test-9.11.23/static/media/Capsule.700dde8469ededc39233.png",
+    "static/media/Automatic.png": "/Yandex-test-9.11.23/static/media/Automatic.9c167a18592639114616.png",
+    "static/media/Product.png": "/Yandex-test-9.11.23/static/media/Product.e08e231e085fd938ceda.png",
+    "static/media/favorite-heart-interface.svg": "/Yandex-test-9.11.23/static/media/favorite-heart-interface.6f6fbef6c2b10e2a1a828d3cf14494de.svg",
+    "static/media/favorite.svg": "/Yandex-test-9.11.23/static/media/favorite.8ea7c4058a297f668bca1afe89338611.svg",
+    "index.html": "/Yandex-test-9.11.23/index.html",
+    "main.776b4657.css.map": "/Yandex-test-9.11.23/static/css/main.776b4657.css.map",
+    "main.5d9c4e30.js.map": "/Yandex-test-9.11.23/static/js/main.5d9c4e30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.776b4657.css",
+    "static/js/main.5d9c4e30.js"
+  ]
+}

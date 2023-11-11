@@ -1,9 +1,0 @@
-@import url(../src/vendor/fonts/fonts.css);
-@import url(../src/vendor/normalize.css);
-
-.page {
-  background-color: #2f2f2f;
-  width: 100%;
-  max-width: 1500px;
-  margin: 0 auto;
-}
